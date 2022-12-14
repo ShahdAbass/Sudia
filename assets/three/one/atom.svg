@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156.695" height="155.425" viewBox="0 0 156.695 155.425">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.254" y1="0.365" x2="1.755" y2="1.58" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#41b2ad"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.081" y1="0.992" x2="2.462" y2="-1.162" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-3.106" y1="-0.148" x2="10.311" y2="2.262" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="-2.275" y1="-0.269" x2="4.792" y2="2.01" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_160197" data-name="Group 160197" transform="translate(-76.977 -266.461)">
+    <circle id="Ellipse_229" data-name="Ellipse 229" cx="18.847" cy="18.847" r="18.847" transform="translate(76.977 311.318)" fill="url(#linear-gradient)"/>
+    <line id="Line_709" data-name="Line 709" x1="44.526" y1="6.2" transform="translate(96.972 329.478)" fill="none" stroke="#41b2ad" stroke-miterlimit="10" stroke-width="11"/>
+    <circle id="Ellipse_230" data-name="Ellipse 230" cx="33.551" cy="33.551" r="33.551" transform="translate(123.295 298.657)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_231" data-name="Ellipse 231" cx="18.847" cy="18.847" r="18.847" transform="translate(195.977 266.461)" fill="url(#linear-gradient-3)"/>
+    <line id="Line_710" data-name="Line 710" y1="27.101" x2="35.869" transform="translate(178.63 286.606)" fill="none" stroke="#41b2ad" stroke-miterlimit="10" stroke-width="11"/>
+    <line id="Line_711" data-name="Line 711" x2="18.852" y2="49.723" transform="translate(165.17 353.315)" fill="none" stroke="#41b2ad" stroke-miterlimit="10" stroke-width="11"/>
+    <circle id="Ellipse_232" data-name="Ellipse 232" cx="18.847" cy="18.847" r="18.847" transform="translate(165.174 384.191)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>

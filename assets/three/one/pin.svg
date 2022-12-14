@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="177.861" height="134.282" viewBox="0 0 177.861 134.282">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.88" y1="0.074" x2="-0.108" y2="1.482" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#41b2ad"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1.38" y1="1.913" x2="0.95" y2="0.149" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_160195" data-name="Group 160195" transform="translate(-461.007 -202.736)">
+    <rect id="Rectangle_140052" data-name="Rectangle 140052" width="16.353" height="16.353" transform="translate(540.093 253.629)" fill="#8bd0cd"/>
+    <rect id="Rectangle_140053" data-name="Rectangle 140053" width="16.353" height="16.353" transform="translate(518.022 320.666)" fill="#8bd0cd"/>
+    <rect id="Rectangle_140054" data-name="Rectangle 140054" width="16.353" height="16.353" transform="translate(513.955 210.726)" fill="#8bd0cd"/>
+    <rect id="Rectangle_140055" data-name="Rectangle 140055" width="16.353" height="16.353" transform="translate(461.007 281.269)" fill="#8bd0cd"/>
+    <path id="Path_16878" data-name="Path 16878" d="M582.738,213.08l19.2,2.209,17.8-9.251L634.8,235.014,617,244.265l-9.226,16.987L548.3,265.2l-.838-1.612,42.02-21.842a8.342,8.342,0,1,0-1.289-2.479l-42.02,21.842-.838-1.613Z" fill="url(#linear-gradient)"/>
+    <path id="Path_16879" data-name="Path 16879" d="M548.269,261.8,526.2,328.842,522.131,218.9s-52.947,3.414-52.947,70.543V239.539" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_228" data-name="Ellipse 228" cx="3.57" cy="3.57" r="3.57" transform="translate(465.644 236.2)" fill="#8bd0cd"/>
+    <path id="Path_16880" data-name="Path 16880" d="M609.3,209.213l15.643,32.571,13.928-7.286-16.923-31.763Z" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
